@@ -4,9 +4,9 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 
 ## 🛠️ My Open-Source Projects
 
-| [JMB Restaurant][1] | <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/jmb-logo.png" width="70"> |   [J&M Rentals][3]   | <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/Jm-rentals.png" width="70"> |
+| [JMB Restaurant][1] | <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/jmb-logo.png" width="120" > |   [J&M Rentals][3]   | <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/Jm-rentals.png" width="120"> |
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|    [UPI App][5]     |   <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/UPI.png" width="70">    | 🚀 More coming soon! |                                                         🔧                                                          |
+|    [UPI App][5]     |   <img src="https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/UPI.png" width="120">    | 🚀 More coming soon! |                                                         🔧                                                          |
 
 ---
 
