@@ -27,7 +27,7 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 [6]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/UPI.png
 [7]: https://github.com/NarsiBhati-Dev/cosketch
 [8]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/cosketch.png
-[9]: 
+[9]: f
 [10]: https://www.linkedin.com/in/narsi-bhati-b43459224/
 [11]: https://x.com/NarsiBhati31
 [12]: https://github.com/NarsiBhati-Dev
