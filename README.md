@@ -16,7 +16,8 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)][11]
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][12]
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][13]
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][14]
+
+<!-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][14] -->
 
 ---
 
@@ -30,7 +31,8 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 [8]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/jmb-logo.png
 [9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
 [10]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/Jm-rentals.png
-[11]: https://your-portfolio-link.com
+[11]: https://www.narsibhati.com
 [12]: https://www.linkedin.com/in/narsi-bhati-b43459224/
 [13]: https://x.com/NarsiBhati31
-[14]: https://github.com/NarsiBhati-Dev
+
+<!-- [14]: https://github.com/NarsiBhati-Dev -->
