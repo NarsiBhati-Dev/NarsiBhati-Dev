@@ -21,7 +21,6 @@ Rust · Anchor · TypeScript · [narsi.xyz](https://narsi.xyz)
 - **[Athena](https://github.com/narsixyz/athena)** - Single-page Solana frontend with a built-in HD wallet for minting SPL Token-2022 assets with on-chain metadata, no browser extension required.
 - **[spl-nft](https://github.com/narsixyz/spl-nft-q326)** - TypeScript scripts for minting an SPL token and an MPL Core NFT on devnet.
 - **[guestbook](https://github.com/narsixyz/guestbook)** - On-chain guestbook built on the `@solana/kit` stack.
-- **[mini-solana-validator](https://github.com/narsixyz/mini-solana-validator)** - A minimal validator, written to understand the runtime from the inside.
 
 Reading the stack it runs on: [agave](https://github.com/narsixyz/agave) · [alpenglow](https://github.com/narsixyz/alpenglow) · [quasar](https://github.com/narsixyz/quasar) · [sbpf-linker](https://github.com/narsixyz/sbpf-linker) · [doppler](https://github.com/narsixyz/doppler) · [poseidon2](https://github.com/narsixyz/poseidon2)
 
