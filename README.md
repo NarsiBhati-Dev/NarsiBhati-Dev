@@ -29,9 +29,9 @@ Reading the stack it runs on: [agave](https://github.com/narsixyz/agave) · [alp
 
 ## Full stack
 
-- **[Audora](https://www.audora.xyz)** · 261★ - Remote audio/video recording platform. WebRTC signalling, media processing pipelines, multipart S3 uploads. Turborepo + Bun.
-- **[Glyphcast](https://glyphcast.audoralabs.com/)** · 83★ - Browser-based ASCII studio. Turns images, GIFs, and video into ASCII animations; exports to PNG, video, React, ZIP frames, or plain text.
-- **[CoSketch](https://www.cosketch.xyz/)** · 39★ - Real-time collaborative drawing. WebSockets, Postgres, Prisma, Turborepo.
+- **[Audora](https://www.audora.xyz)** · [repo](https://github.com/narsixyz/audora) · 261★ - Remote audio/video recording platform. WebRTC signalling, media processing pipelines, multipart S3 uploads. Turborepo + Bun.
+- **[Glyphcast](https://glyphcast.audoralabs.com/)** · [repo](https://github.com/narsixyz/glyphcast) · 83★ - Browser-based ASCII studio. Turns images, GIFs, and video into ASCII animations; exports to PNG, video, React, ZIP frames, or plain text.
+- **[CoSketch](https://www.cosketch.xyz/)** · [repo](https://github.com/narsixyz/CoSketch) · 39★ - Real-time collaborative drawing. WebSockets, Postgres, Prisma, Turborepo.
 
 ---
 
