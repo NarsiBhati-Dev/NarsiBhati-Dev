@@ -34,4 +34,4 @@ Reading the stack it runs on: [agave](https://github.com/narsixyz/agave) · [alp
 
 ---
 
-<a href="https://narsi.xyz"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/narsibhati/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/narsixyz"><img src="https://img.shields.io/badge/X-18181b?style=flat&logo=x&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=Profile+Views&color=6366f1&style=flat"/>
+<a href="https://narsi.xyz"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/narsibhati/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/narsixyz"><img src="https://img.shields.io/badge/X-18181b?style=flat&logo=x&logoColor=white"/></a> <img src="https://hits.sh/github.com/narsixyz.svg?style=flat&label=Profile%20Views&color=6366f1&labelColor=18181b"/>
